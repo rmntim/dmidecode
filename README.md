@@ -1,5 +1,6 @@
 # DMIDECODE
 Usage:
-```console
+```bash
+javac Main.java
 java Main <filename>
 ```
